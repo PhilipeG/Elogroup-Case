@@ -1,0 +1,26 @@
+.table-leads-options tr{
+    text-align: center;
+    background-color: #FFF;
+    border: solid black 2px;
+}
+
+.table-leads-options tr:nth-child(even) {
+    background-color: #D3D3D3;
+}
+
+.table-header{
+    background-color: #808080 !important;
+    text-align: center;
+}
+
+.table-leads-options{
+    width: 500px;
+    border: solid black 2px ;
+    padding: 0px;
+    box-shadow: none;
+}
+
+.option-name{
+    text-align: left;
+    padding: 5px;
+}

@@ -1,0 +1,8 @@
+.form-lead{
+    width: 210px;
+}
+
+.form-lead input, .form-lead label{
+    display: block;
+    width: 100%;
+}

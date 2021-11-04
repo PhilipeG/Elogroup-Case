@@ -1,0 +1,42 @@
+/* .container-logo-leads{
+    margin-top: 20px;
+    margin-left: 50px;
+}
+
+.table-leads:nth-child(even) {
+    width: 200px;
+    background-color: aqua;
+}
+
+.table-header-leadsPainel{
+    display: block;
+    margin-top: 20px;
+    margin-bottom: 7px;
+    border: solid black;
+}
+
+.container-form-leads{
+    margin-top: 5px;
+    margin-left: 50px;
+}
+
+.characters{
+    border: solid black;
+} */
+
+.header-leads{
+    display: flex;
+    margin-left: 500px;
+}
+
+.button-leads{
+    margin-left: 200px;
+    margin-top: 100px;
+}
+
+.table-painel-lead{
+    width: 1000px;
+    border: solid 1px black;
+    margin-left: 200px;
+    margin-top: 20px;
+}

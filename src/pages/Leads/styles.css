@@ -1,0 +1,18 @@
+.container-logo-leads{
+    margin-top: 20px;
+    margin-left: 50px;
+}
+
+
+.grid-container{
+    display: grid;
+    grid-template-columns: auto auto;
+    grid-template-rows: 80px 200px;
+    grid-gap: 10px;
+
+}
+
+.container-form-leads{
+    margin-top: 5px;
+    margin-left: 50px;
+}
